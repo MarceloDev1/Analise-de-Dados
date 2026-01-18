@@ -23,7 +23,6 @@ Precisando melhorar seus resultados ela quer conseguir entender os principais mo
 ## Dados
 
 - Arquivo de dados: `cancelamentos.csv`
-- Fonte: [Google Drive](https://drive.google.com/drive/folders/1uDesZePdkhiraJmiyeZ-w5tfc8XsNYFZ?usp=drive_link)
 
 ## Dependências
 
